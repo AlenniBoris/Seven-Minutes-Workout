@@ -6,4 +6,10 @@
     </style>
 
     <style name="Theme.SevenMinutesWorkout" parent="Base.Theme.SevenMinutesWorkout" />
+
+    <style name="ToolbarTheme" parent="Theme.MaterialComponents.DayNight.DarkActionBar">
+
+        <item name="colorControlNormal">@color/toolbar_color_control_normal</item>
+
+    </style>
 </resources>
